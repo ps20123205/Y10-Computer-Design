@@ -1,3 +1,4 @@
+//  I worked with Adrian for this task.
 function setup()
 {
   createCanvas(700,500);
